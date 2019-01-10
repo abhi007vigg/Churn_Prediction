@@ -1,0 +1,7 @@
+#Churn_Prediction
+Churn Prediction is a problem that is faced by brands across multiple domains such as E-Commerce and Telecom Industry. 
+It is basically the process of losing customers to competition or due to some other factor. 
+This is a classification problem where the target variable is a two class variable with values Yes or No. 
+The independent variables could be a mix of categorical or numeric variables. 
+We will apply multiple pre-processing techniques, exploratory data analysis and machine learning algorithms to predict and 
+reduce churn in this project.
